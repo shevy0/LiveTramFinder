@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Directions.qml</file>
+        <file>MainView.qml</file>
+        <file>Lines.qml</file>
+    </qresource>
+</RCC>
