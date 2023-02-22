@@ -1,6 +1,6 @@
 # LiveTramFinder
 
-Application created by reverse engineering a peka.poznan.pl/vm website. It allows searching for stops and displaying live information about departing trams.
+Pretty ugly (xD) but working application created by reverse engineering a peka.poznan.pl/vm website. It allows searching for stops and displaying live information about departing trams.
 
 <img src="https://user-images.githubusercontent.com/75830878/220471991-c6858122-9c6e-4e31-bdad-ee2640b80712.jpg" width="35%">
 
